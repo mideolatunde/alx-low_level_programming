@@ -1,12 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <unistd.h>
 /**
- * main - print the string without using prinf or put function
- *
- * Return: 1
+ * main - Prints out the last partof a quote in the standard error.
+ * Return: 1 if success.
  */
 int main(void)
 {
-	system( "echo and that piece of art is useful" - Dora Korpar, 2015-10-19\n");
+	write(2, "and that piece of art is useful - Dora Korpar, 2015-10-19\n", 58);
 	return (1);
 }
