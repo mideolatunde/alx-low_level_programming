@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	int c;
-	char i;
+	char c;
+	int i;
 
 	for (c = 0; c < 10; c++)
 	{
