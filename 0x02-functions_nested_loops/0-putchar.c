@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * main - prints "_putchar"
- * followed by a new line
+ * main - Entry point
+ * write a program that prints _putchar, followed by a newline
  *
  * Return - 0 Always Success
  */
