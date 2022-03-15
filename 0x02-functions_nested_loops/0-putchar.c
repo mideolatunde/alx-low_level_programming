@@ -1,10 +1,9 @@
 #include <stdio.h>
 #include "main.h"
-
 /**
  * main - Entry point
  * write a program that prints _putchar, followed by a newline
- * Return Value - (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
