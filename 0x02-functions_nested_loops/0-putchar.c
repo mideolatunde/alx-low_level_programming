@@ -2,9 +2,10 @@
 #include "main.h"
 
 /**
- * main - prints _putchar followed by a new line
+ * main - prints "_putchar"
+ * followed by a new line
  *
- * Return - 0
+ * Return - 0 Always Success
  */
 int main(void)
 {
