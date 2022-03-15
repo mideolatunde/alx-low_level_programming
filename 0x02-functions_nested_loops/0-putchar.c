@@ -7,6 +7,13 @@
  */
 int main(void)
 {
-	printf("_putchar/n");
-	return (0);
+	char *v = "_putchar";
+
+	while (*v)
+	{
+		_putchar(*v);
+		v++;
+	}
+	_putchar('\n);
+return (0);
 }
